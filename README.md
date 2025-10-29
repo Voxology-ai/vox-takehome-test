@@ -11,6 +11,7 @@
     - If you can showcase the Provider details fetched in the ui when the tool responds.
     - Not using reasoning models so that responses are fast. 
     - Use your imagination/research to create these workflows. 
+    - Any future plan to scale this to 1000 providers.
 
 
 ---- 
